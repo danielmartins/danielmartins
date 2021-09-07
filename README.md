@@ -27,7 +27,7 @@
 </div>
   
 
-**🔭  Working at <code><a href="https://www.tembici.com.br/"><b><img src="https://www.tembici.com.br/wp-content/themes/tembici/img/logo.svg" width="100px"></b> </a></code> leading foundation and customer success teams to build the better micromobility experience available out there. If you have ideas about this subject and like to discuss, please reach me, I would love to hear.** 🚲<br><br>
+**🔭  Working at <code><a href="https://www.tembici.com.br/"><b><img src="https://www.tembici.com.br/wp-content/themes/tembici/img/logo.svg" width="100px"></b> </a></code> leading foundation and customer success technology teams to build the better micromobility experience available out there. If you have ideas about this subject and like to discuss, please reach me, I would love to hear.** 🚲<br><br>
 
 **🌱  Currently studying consistency across distributed information systems designs.**
 <br>
