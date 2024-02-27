@@ -25,9 +25,6 @@
 <div align="center">
 <h3>💻  Computer Scientist | 🌏  São Paulo, Brasil | <img src=https://komarev.com/ghpvc/?username=danielmartins alt=danielmartins></h3>
 </div>
-  
-
-**🔭  Working at <code><a href="https://www.tembici.com.br/"><b><img src="https://www.tembici.com.br/wp-content/themes/tembici/img/logo.svg" width="100px"></b> </a></code> leading technology teams to build the better micromobility experience available out there. If you have ideas about this subject and like to discuss, please reach me, I would love to hear.** 🚲<br><br>
 
 **🌱  Currently studying consistency across distributed information systems designs.**
 <br>
